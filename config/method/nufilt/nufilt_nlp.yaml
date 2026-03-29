@@ -1,0 +1,27 @@
+_target_: fusion_bench.method.nufilt.nufilt_nlp.NUFILTForT5
+
+# shuffle the order of the models
+shuffle_order: true
+# the random seed to use
+seed: 42
+# save the merged model on every step
+save_on_every_step: true
+# evaluate the merged model on every step
+evaluate_on_every_step: true
+
+null_space: true
+
+lora_layer:
+  - DenseReluDense
+  - SelfAttention
+  - EncDecAttention
+
+# learning rate
+lr: 1e-3
+optimizer: adam
+batch_size: 16
+num_workers: 16
+max_steps: 50
+lora_r: 64
+grad_r: 8
+null_r: 128

@@ -1,0 +1,15 @@
+_target_: fusion_bench.method.nufilt.tsvm.ContinualTSVMForCLIP
+
+# Scaling factor $\lambda$
+scaling_factor: 1
+# List of keys to remove from the state dict, default is empty
+remove_keys: []
+
+# shuffle the order of the models
+shuffle_order: true
+# the random seed to use
+seed: null
+# save the merged model on every step
+save_on_every_step: true
+# evaluate the merged model on every step
+evaluate_on_every_step: true
