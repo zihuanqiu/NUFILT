@@ -8,7 +8,7 @@ fusion_bench \
     fabric.loggers.name=t5-base \
     fabric.loggers.version=0 \
     method.seed=42 \
-    method=opcm/c_adamerging_nlp \
+    method=nufilt/c_adamerging_nlp \
     method.shuffle_order=false \
     method.save_on_every_step=false \
     method.evaluate_on_every_step=true \
@@ -22,7 +22,7 @@ fusion_bench \
     fabric.loggers.name=t5-base \
     fabric.loggers.version=0 \
     method.seed=42 \
-    method=opcm/c_wemoe_nlp \
+    method=nufilt/c_wemoe_nlp \
     method.shuffle_order=false \
     method.save_on_every_step=false \
     method.evaluate_on_every_step=true \
@@ -37,7 +37,7 @@ fusion_bench \
     fabric.loggers.name=t5-base \
     fabric.loggers.version=0 \
     method.seed=42 \
-    method=opcm/wudi_nlp \
+    method=nufilt/wudi_nlp \
     method.shuffle_order=false \
     method.save_on_every_step=false \
     method.evaluate_on_every_step=true \
@@ -50,7 +50,7 @@ fusion_bench \
     fabric.loggers.name=t5-base \
     fabric.loggers.version=0 \
     method.seed=42 \
-    method=opcm/task_arithmetic_nlp \
+    method=nufilt/task_arithmetic_nlp \
     method.shuffle_order=false \
     method.scaling_factor=0.3 \
     method.save_on_every_step=false \
@@ -64,7 +64,7 @@ fusion_bench \
     fabric.loggers.name=t5-base \
     fabric.loggers.version=0 \
     method.seed=42 \
-    method=opcm/ties_merging_nlp \
+    method=nufilt/ties_merging_nlp \
     method.shuffle_order=false \
     method.scaling_factor=0.3 \
     method.save_on_every_step=false \
@@ -78,7 +78,7 @@ fusion_bench \
     fabric.loggers.name=t5-base \
     fabric.loggers.version=0 \
     method.seed=42 \
-    method=opcm/opcm_nlp \
+    method=nufilt/opcm_nlp \
     method.shuffle_order=false \
     method.save_on_every_step=false \
     method.evaluate_on_every_step=true \
@@ -91,7 +91,7 @@ fusion_bench \
     fabric.loggers.name=t5-base \
     fabric.loggers.version=0 \
     method.seed=42 \
-    method=opcm/nufilt_nlp \
+    method=nufilt/nufilt_nlp \
     method.shuffle_order=false \
     method.save_on_every_step=false \
     method.evaluate_on_every_step=false \

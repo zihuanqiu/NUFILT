@@ -332,7 +332,7 @@ done
 # WUDI
 ROOT_DIR="outputs/wudi"
 LOGGER_NAME="vit-b-32-TA8"
-METHOD_NAME="opcm/wudi"
+METHOD_NAME="nufilt/wudi"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch32_TA8_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TA8"
 BASE_MODEL="openai/clip-vit-base-patch32"
@@ -355,7 +355,7 @@ done
 # TSVM
 ROOT_DIR="outputs/tsvm"
 LOGGER_NAME="vit-b-32-TA8"
-METHOD_NAME="opcm/tsvm"
+METHOD_NAME="nufilt/tsvm"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch32_TA8_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TA8"
 BASE_MODEL="openai/clip-vit-base-patch32"
@@ -378,7 +378,7 @@ done
 # KNOTS
 ROOT_DIR="outputs/knots"
 LOGGER_NAME="vit-b-32-TA8"
-METHOD_NAME="opcm/knots"
+METHOD_NAME="nufilt/knots"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch32_TA8_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TA8"
 BASE_MODEL="openai/clip-vit-base-patch32"
@@ -403,7 +403,7 @@ done
 # ISO
 ROOT_DIR="outputs/iso"
 LOGGER_NAME="vit-b-32-TA8"
-METHOD_NAME="opcm/iso"
+METHOD_NAME="nufilt/iso"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch32_TA8_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TA8"
 BASE_MODEL="openai/clip-vit-base-patch32"
@@ -616,7 +616,7 @@ done
 # WUDI
 ROOT_DIR="outputs/wudi"
 LOGGER_NAME="vit-b-16-TA8"
-METHOD_NAME="opcm/wudi"
+METHOD_NAME="nufilt/wudi"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch16_TA8_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TA8"
 BASE_MODEL="openai/clip-vit-base-patch16"
@@ -639,7 +639,7 @@ done
 # TSVM
 ROOT_DIR="outputs/tsvm"
 LOGGER_NAME="vit-b-16-TA8"
-METHOD_NAME="opcm/tsvm"
+METHOD_NAME="nufilt/tsvm"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch16_TA8_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TA8"
 BASE_MODEL="openai/clip-vit-base-patch16"
@@ -662,7 +662,7 @@ done
 # KNOTS
 ROOT_DIR="outputs/knots"
 LOGGER_NAME="vit-b-16-TA8"
-METHOD_NAME="opcm/knots"
+METHOD_NAME="nufilt/knots"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch16_TA8_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TA8"
 BASE_MODEL="openai/clip-vit-base-patch16"
@@ -687,7 +687,7 @@ done
 # ISO
 ROOT_DIR="outputs/iso"
 LOGGER_NAME="vit-b-16-TA8"
-METHOD_NAME="opcm/iso"
+METHOD_NAME="nufilt/iso"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch16_TA8_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TA8"
 BASE_MODEL="openai/clip-vit-base-patch16"
@@ -900,7 +900,7 @@ done
 # WUDI
 ROOT_DIR="outputs/wudi"
 LOGGER_NAME="vit-l-14-TA8"
-METHOD_NAME="opcm/wudi"
+METHOD_NAME="nufilt/wudi"
 MODELPOOL="CLIPVisionModelPool/clip-vit-large-patch14_TA8_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TA8"
 BASE_MODEL="openai/clip-vit-large-patch14"
@@ -923,7 +923,7 @@ done
 # TSVM
 ROOT_DIR="outputs/tsvm"
 LOGGER_NAME="vit-l-14-TA8"
-METHOD_NAME="opcm/tsvm"
+METHOD_NAME="nufilt/tsvm"
 MODELPOOL="CLIPVisionModelPool/clip-vit-large-patch14_TA8_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TA8"
 BASE_MODEL="openai/clip-vit-large-patch14"
@@ -946,7 +946,7 @@ done
 # KNOTS
 ROOT_DIR="outputs/knots"
 LOGGER_NAME="vit-l-14-TA8"
-METHOD_NAME="opcm/knots"
+METHOD_NAME="nufilt/knots"
 MODELPOOL="CLIPVisionModelPool/clip-vit-large-patch14_TA8_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TA8"
 BASE_MODEL="openai/clip-vit-large-patch14"
@@ -971,7 +971,7 @@ done
 # ISO
 ROOT_DIR="outputs/iso"
 LOGGER_NAME="vit-l-14-TA8"
-METHOD_NAME="opcm/iso"
+METHOD_NAME="nufilt/iso"
 MODELPOOL="CLIPVisionModelPool/clip-vit-large-patch14_TA8_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TA8"
 BASE_MODEL="openai/clip-vit-large-patch14"
@@ -1188,7 +1188,7 @@ done
 # WUDI
 ROOT_DIR="outputs/wudi"
 LOGGER_NAME="vit-b-32-TALL14"
-METHOD_NAME="opcm/wudi"
+METHOD_NAME="nufilt/wudi"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch32_TALL14_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL14"
 BASE_MODEL="openai/clip-vit-base-patch32"
@@ -1211,7 +1211,7 @@ done
 # TSVM
 ROOT_DIR="outputs/tsvm"
 LOGGER_NAME="vit-b-32-TALL14"
-METHOD_NAME="opcm/tsvm"
+METHOD_NAME="nufilt/tsvm"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch32_TALL14_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL14"
 BASE_MODEL="openai/clip-vit-base-patch32"
@@ -1234,7 +1234,7 @@ done
 # KNOTS
 ROOT_DIR="outputs/knots"
 LOGGER_NAME="vit-b-32-TALL14"
-METHOD_NAME="opcm/knots"
+METHOD_NAME="nufilt/knots"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch32_TALL14_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL14"
 BASE_MODEL="openai/clip-vit-base-patch32"
@@ -1257,7 +1257,7 @@ done
 # ISO
 ROOT_DIR="outputs/iso"
 LOGGER_NAME="vit-b-32-TALL14"
-METHOD_NAME="opcm/iso"
+METHOD_NAME="nufilt/iso"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch32_TALL14_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL14"
 BASE_MODEL="openai/clip-vit-base-patch32"
@@ -1470,7 +1470,7 @@ done
 # WUDI
 ROOT_DIR="outputs/wudi"
 LOGGER_NAME="vit-b-16-TALL14"
-METHOD_NAME="opcm/wudi"
+METHOD_NAME="nufilt/wudi"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch16_TALL14_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL14"
 BASE_MODEL="openai/clip-vit-base-patch16"
@@ -1493,7 +1493,7 @@ done
 # TSVM
 ROOT_DIR="outputs/tsvm"
 LOGGER_NAME="vit-b-16-TALL14"
-METHOD_NAME="opcm/tsvm"
+METHOD_NAME="nufilt/tsvm"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch16_TALL14_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL14"
 BASE_MODEL="openai/clip-vit-base-patch16"
@@ -1516,7 +1516,7 @@ done
 # KNOTS
 ROOT_DIR="outputs/knots"
 LOGGER_NAME="vit-b-16-TALL14"
-METHOD_NAME="opcm/knots"
+METHOD_NAME="nufilt/knots"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch16_TALL14_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL14"
 BASE_MODEL="openai/clip-vit-base-patch16"
@@ -1539,7 +1539,7 @@ done
 # ISO
 ROOT_DIR="outputs/iso"
 LOGGER_NAME="vit-b-16-TALL14"
-METHOD_NAME="opcm/iso"
+METHOD_NAME="nufilt/iso"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch16_TALL14_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL14"
 BASE_MODEL="openai/clip-vit-base-patch16"
@@ -1752,7 +1752,7 @@ done
 # WUDI
 ROOT_DIR="outputs/wudi"
 LOGGER_NAME="vit-l-14-TALL14"
-METHOD_NAME="opcm/wudi"
+METHOD_NAME="nufilt/wudi"
 MODELPOOL="CLIPVisionModelPool/clip-vit-large-patch14_TALL14_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL14"
 BASE_MODEL="openai/clip-vit-large-patch14"
@@ -1775,7 +1775,7 @@ done
 # TSVM
 ROOT_DIR="outputs/tsvm"
 LOGGER_NAME="vit-l-14-TALL14"
-METHOD_NAME="opcm/tsvm"
+METHOD_NAME="nufilt/tsvm"
 MODELPOOL="CLIPVisionModelPool/clip-vit-large-patch14_TALL14_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL14"
 BASE_MODEL="openai/clip-vit-large-patch14"
@@ -1798,7 +1798,7 @@ done
 # KNOTS
 ROOT_DIR="outputs/knots"
 LOGGER_NAME="vit-l-14-TALL14"
-METHOD_NAME="opcm/knots"
+METHOD_NAME="nufilt/knots"
 MODELPOOL="CLIPVisionModelPool/clip-vit-large-patch14_TALL14_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL14"
 BASE_MODEL="openai/clip-vit-large-patch14"
@@ -1821,7 +1821,7 @@ done
 # ISO
 ROOT_DIR="outputs/iso"
 LOGGER_NAME="vit-l-14-TALL14"
-METHOD_NAME="opcm/iso"
+METHOD_NAME="nufilt/iso"
 MODELPOOL="CLIPVisionModelPool/clip-vit-large-patch14_TALL14_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL14"
 BASE_MODEL="openai/clip-vit-large-patch14"
@@ -2038,7 +2038,7 @@ done
 # WUDI
 ROOT_DIR="outputs/wudi"
 LOGGER_NAME="vit-b-32-TALL20"
-METHOD_NAME="opcm/wudi"
+METHOD_NAME="nufilt/wudi"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch32_TALL20_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL20"
 BASE_MODEL="openai/clip-vit-base-patch32"
@@ -2061,7 +2061,7 @@ done
 # TSVM
 ROOT_DIR="outputs/tsvm"
 LOGGER_NAME="vit-b-32-TALL20"
-METHOD_NAME="opcm/tsvm"
+METHOD_NAME="nufilt/tsvm"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch32_TALL20_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL20"
 BASE_MODEL="openai/clip-vit-base-patch32"
@@ -2084,7 +2084,7 @@ done
 # KNOTS
 ROOT_DIR="outputs/knots"
 LOGGER_NAME="vit-b-32-TALL20"
-METHOD_NAME="opcm/knots"
+METHOD_NAME="nufilt/knots"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch32_TALL20_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL20"
 BASE_MODEL="openai/clip-vit-base-patch32"
@@ -2107,7 +2107,7 @@ done
 # ISO
 ROOT_DIR="outputs/iso"
 LOGGER_NAME="vit-b-32-TALL20"
-METHOD_NAME="opcm/iso"
+METHOD_NAME="nufilt/iso"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch32_TALL20_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL20"
 BASE_MODEL="openai/clip-vit-base-patch32"
@@ -2320,7 +2320,7 @@ done
 # WUDI
 ROOT_DIR="outputs/wudi"
 LOGGER_NAME="vit-b-16-TALL20"
-METHOD_NAME="opcm/wudi"
+METHOD_NAME="nufilt/wudi"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch16_TALL20_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL20"
 BASE_MODEL="openai/clip-vit-base-patch16"
@@ -2343,7 +2343,7 @@ done
 # TSVM
 ROOT_DIR="outputs/tsvm"
 LOGGER_NAME="vit-b-16-TALL20"
-METHOD_NAME="opcm/tsvm"
+METHOD_NAME="nufilt/tsvm"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch16_TALL20_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL20"
 BASE_MODEL="openai/clip-vit-base-patch16"
@@ -2366,7 +2366,7 @@ done
 # KNOTS
 ROOT_DIR="outputs/knots"
 LOGGER_NAME="vit-b-16-TALL20"
-METHOD_NAME="opcm/knots"
+METHOD_NAME="nufilt/knots"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch16_TALL20_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL20"
 BASE_MODEL="openai/clip-vit-base-patch16"
@@ -2389,7 +2389,7 @@ done
 # ISO
 ROOT_DIR="outputs/iso"
 LOGGER_NAME="vit-b-16-TALL20"
-METHOD_NAME="opcm/iso"
+METHOD_NAME="nufilt/iso"
 MODELPOOL="CLIPVisionModelPool/clip-vit-base-patch16_TALL20_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL20"
 BASE_MODEL="openai/clip-vit-base-patch16"
@@ -2602,7 +2602,7 @@ done
 # WUDI
 ROOT_DIR="outputs/wudi"
 LOGGER_NAME="vit-l-14-TALL20"
-METHOD_NAME="opcm/wudi"
+METHOD_NAME="nufilt/wudi"
 MODELPOOL="CLIPVisionModelPool/clip-vit-large-patch14_TALL20_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL20"
 BASE_MODEL="openai/clip-vit-large-patch14"
@@ -2625,7 +2625,7 @@ done
 # TSVM
 ROOT_DIR="outputs/tsvm"
 LOGGER_NAME="vit-l-14-TALL20"
-METHOD_NAME="opcm/tsvm"
+METHOD_NAME="nufilt/tsvm"
 MODELPOOL="CLIPVisionModelPool/clip-vit-large-patch14_TALL20_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL20"
 BASE_MODEL="openai/clip-vit-large-patch14"
@@ -2648,7 +2648,7 @@ done
 # KNOTS
 ROOT_DIR="outputs/knots"
 LOGGER_NAME="vit-l-14-TALL20"
-METHOD_NAME="opcm/knots"
+METHOD_NAME="nufilt/knots"
 MODELPOOL="CLIPVisionModelPool/clip-vit-large-patch14_TALL20_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL20"
 BASE_MODEL="openai/clip-vit-large-patch14"
@@ -2671,7 +2671,7 @@ done
 # ISO
 ROOT_DIR="outputs/iso"
 LOGGER_NAME="vit-l-14-TALL20"
-METHOD_NAME="opcm/iso"
+METHOD_NAME="nufilt/iso"
 MODELPOOL="CLIPVisionModelPool/clip-vit-large-patch14_TALL20_model_only"
 TASKPOOL="CLIPVisionModelTaskPool/clip-vit-classification_TALL20"
 BASE_MODEL="openai/clip-vit-large-patch14"

@@ -7,7 +7,7 @@ from torch.func import functional_call
 from torch.nn import functional as F
 from copy import deepcopy
 from fusion_bench.utils.type import StateDictType
-from fusion_bench.method.opcm.utils import svd
+from fusion_bench.method.nufilt.utils import svd
 log = logging.getLogger(__name__)
 
 

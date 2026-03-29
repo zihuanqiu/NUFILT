@@ -7,7 +7,7 @@
 
 This repository contains the PyTorch implementation of the paper:
 
-[Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2025)](https://arxiv.org/pdf/2509.21413)
+[Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026)](https://arxiv.org/pdf/2509.21413)
 
 
 ## Abstract
